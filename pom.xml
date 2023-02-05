@@ -11,6 +11,7 @@
 	<groupId>com.epam.esm</groupId>
 	<artifactId>GiftCertificatesSystem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>GiftCertificatesSystem</name>
 	<description>GiftCertificatesSystem</description>
 	<properties>
@@ -196,6 +197,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<version>${project.parent.version}</version>
 			</plugin>
+
 		</plugins>
 	</build>
 
