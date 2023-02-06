@@ -1,4 +1,4 @@
 # gift-certificate-system-authentication
-Developer Credentils:
-login:developer
-passwoed:developer
+Developer Credentils: <br />
+login:developer <br />
+password:developer <br />
